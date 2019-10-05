@@ -1,26 +1,25 @@
 {
-    "copy"           : "AppSeed", 
-    "email"          : "support@appseed.us",
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
     "design"         : "Tessellate by Html5 UP",
 
-    "app_title"      : "Eleventy Tessellate",
+    "app_title"      : "Site Prezentare",
 
-    "seo_title"      : "Eleventy Tessellate - Built with Automation Tools | AppSeed App Generator",
-    "seo_desc"       : "Static Site prototyped in Eleventy SSG on top of Tessellate Html5 Up design.",
+    "seo_title"      : "Site Prezentare - Design Tessellate | WebsiteMarket",
+    "seo_desc"       : "Site de prezentare, un produs open-source WebsiteMarket.",
 
-    "product"        : "https://github.com/app-generator/eleventy-html5up-tessellate", 
-    "github"         : "https://github.com/app-generator/eleventy-html5up-tessellate",
-    "github_group"   : "https://github.com/app-generator/static-site",
+    "service"        : "https://websitemarket.ro", 
 
-    "docs"           : "https://docs.appseed.us/apps/static-site/eleventy-html5up-tessellate/",
-    "appseed"        : "https://appseed.us",      
-    "generator"      : "https://appseed.us/app-generator",
-    "blog"           : "https://blog.appseed.us/",
-    "facebook"       : "https://facebook.com/webappseed",
-    "twitter"        : "https://twitter.com/webappseed",
-    "instagram"      : "https://instagram.com/webappseed",
-    "support"        : "https://appseed.us/support",
-    "discord"        : "https://discord.gg/fZC6hup",
+    "product"        : "https://websitemarket.ro/site-prezentare/tessellate", 
+    "github"         : "https://github.com/creare-site/site-prezentare-tessellate",
+    "github_group"   : "https://github.com/creare-site",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
 
     "LAST_KEY" : "NA"
 }
